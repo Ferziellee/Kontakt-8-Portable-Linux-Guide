@@ -63,4 +63,8 @@ A Bitwig preview of Kontakt 8 in action, running Shreddage 3.5 Argent:
 
 
 
+https://github.com/user-attachments/assets/04678297-a76f-4f0c-8f0e-4ab6e3dd4ed0
+
+
+
 Heavily inspired by the @Torbuntu's guide :D
