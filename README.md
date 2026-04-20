@@ -60,6 +60,10 @@ Place the insides of the Snapshots folder of your Instrument into this directory
  <img width="350" height="450" alt="image" src="https://github.com/user-attachments/assets/7a1c24b3-5a43-4cfa-8a71-affc5a083d52" />
  
  6. Enjoy :3 
+ 
+ GetGood Drums work!
+ 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/98f09c0e-14f8-4b1d-a5d4-973a99afee91" />
 
 A Bitwig preview of Kontakt 8 in action, running Shreddage 3.5 Argent:
 
