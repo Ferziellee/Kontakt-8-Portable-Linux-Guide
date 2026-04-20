@@ -20,8 +20,8 @@ It's based on a newer Wine version, and has applied VST UI fixes (e.x. Misaligne
 "What should i do if Kontakt doesn't see the Snapshots/Presets of my Instrument?"
 
 Place the insides of the Snapshots folder of your Instrument into this directory:
-``/home/yourname/.wine/drive_c/insertyourchosenkontaktfoldername/UserData/User Content/insertyourinstrumentfolder/``
 
+``/home/yourname/.wine/drive_c/insertyourchosenkontaktfoldername/UserData/User Content/insertyourinstrumentfolder/``
 
 **Installation**
 
@@ -29,13 +29,15 @@ Place the insides of the Snapshots folder of your Instrument into this directory
 
     On Arch-based systems (Cachy, Manjaro, Endeavour)
   
-  ``sudo pacman -S wine-cachyos bitwig-studio yabridge yabridgectl``
+  `` sudo pacman -S wine-cachyos bitwig-studio yabridge yabridgectl ``
   
  2. Setup Kontakt with Wine:
  
-    `` cd Downloads/insertyourpiratedkontaktfolderhere/``
+    `` cd Downloads/insertyourpiratedkontaktfolderhere/ ``
     
-    `` wine insertyourkontaktexecutablename.exe``
+    `` wine insertyourkontaktexecutablename.exe ``
+    
+    `` wine insertyourkeygenexecutablename.exe ``
     
     Proceed with the install as usual.
     
@@ -43,10 +45,12 @@ Place the insides of the Snapshots folder of your Instrument into this directory
 
     `` yabridgectl add "$HOME/.wine/drive_c/insertyourchosenkontaktfoldername/Kontakt 8/x64/VST3/" ``
 
-    ``yabridge sync``
+    `` yabridge sync ``
     
-    **Note:
-    Place your instruments folder in the /home/yourname/.wine/drive_c/insertyourchosenkontaktfoldername/Kontakt 8/Content/Presets/ folder
+    **Note:**
+    Place your instruments folder in the
+    
+    `` /home/yourname/.wine/drive_c/insertyourchosenkontaktfoldername/Kontakt 8/Content/Presets/ `` folder
 
  5. Load Kontakt in Bitwig and choose the Load option:
  
