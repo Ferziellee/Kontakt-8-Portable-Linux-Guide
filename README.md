@@ -25,9 +25,9 @@ Place the insides of the Snapshots folder of your Instrument into this directory
 
 **Installation**
 
- 1. Install every package above using your packet manager:
+ 1. Install every package above using your packet manager: (or install your own DAW :P)
 
-    On Arch-based systems (Cachy, Manjaro, Endeavour)
+    On Arch-based systems: (Cachy, Manjaro, Endeavour)
   
   `` sudo pacman -S wine-cachyos bitwig-studio yabridge yabridgectl ``
   
